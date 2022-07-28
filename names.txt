@@ -1,3 +1,4 @@
-1. juan, B
-2. julian
-3. noel, A
+juan, B
+julian
+noel, A
+jan
