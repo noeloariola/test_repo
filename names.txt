@@ -1,3 +1,5 @@
 juan, B
 julian
+noel, A
+jan
 idol
