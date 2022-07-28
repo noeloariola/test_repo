@@ -1,0 +1,2 @@
+blk 1 lot 52 brgy barandal
+blk 2 lot 32 brgy barandal
